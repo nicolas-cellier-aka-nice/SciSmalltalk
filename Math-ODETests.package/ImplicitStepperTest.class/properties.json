@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "<historical>",
+	"commentStamp" : "",
 	"instvars" : [
-		"sys" ],
-	"name" : "ExplicitSystemTest",
+		 ],
+	"name" : "ImplicitStepperTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",
