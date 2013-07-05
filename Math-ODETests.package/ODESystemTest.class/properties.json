@@ -4,10 +4,10 @@
 		 ],
 	"classvars" : [
 		 ],
-	"commentStamp" : "",
+	"commentStamp" : "<historical>",
 	"instvars" : [
 		"sys" ],
-	"name" : "ImplicitSystemTest",
+	"name" : "ODESystemTest",
 	"pools" : [
 		 ],
 	"super" : "TestCase",

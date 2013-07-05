@@ -6,7 +6,7 @@
 		 ],
 	"commentStamp" : "<historical>",
 	"instvars" : [
-		 ],
+		"dt" ],
 	"name" : "ImplicitStepper",
 	"pools" : [
 		 ],
