@@ -5,7 +5,7 @@ The simplest way to install in Pharo is via Metacello and Gofer.
 
 ```Smalltalk
 Gofer new
-	url: 'http://ss3.gemstone.com/ss/SciSmalltalk';
+	url: 'http://smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
 (Smalltalk at: #ConfigurationOfSciSmalltalk) loadDevelopment.
