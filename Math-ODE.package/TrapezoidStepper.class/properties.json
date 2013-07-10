@@ -1,0 +1,14 @@
+{
+	"category" : "Math-ODE",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "TrapezoidStepper",
+	"pools" : [
+		 ],
+	"super" : "ImplicitStepper",
+	"type" : "normal" }
