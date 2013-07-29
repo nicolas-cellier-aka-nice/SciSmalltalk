@@ -1,3 +1,10 @@
+:bangbang: Current active development repositorry is located at **[SmalltalkHub](http://www.smalltalkhub.com/#!/~SergeStinckwich/SciSmalltalk)**
+
+BuildStatus:
+
+  - Pharo **2**: [![Build Status](https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=SciSmalltalk/PHARO=20,VERSION=bleedingEdge,VM=vm)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=20,VERSION=bleedingEdge,VM=vm/)
+  - Pharo **3**: [![Build Status](https://ci.inria.fr/pharo-contribution/buildStatus/icon?job=SciSmalltalk/PHARO=30,VERSION=bleedingEdge,VM=vm)](https://ci.inria.fr/pharo-contribution/job/SciSmalltalk/PHARO=30,VERSION=bleedingEdge,VM=vm/)
+
 ##How to install SciSmalltalk in Pharo
 
 The simplest way to install in Pharo is via Metacello and Gofer. 
@@ -8,7 +15,7 @@ Gofer new
 	url: 'http://smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
-(Smalltalk at: #ConfigurationOfSciSmalltalk) loadDevelopment.
+(Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
 ```
 
 All packages load into the Math-* package names.
