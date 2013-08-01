@@ -12,7 +12,7 @@ The simplest way to install in Pharo is via Metacello and Gofer.
 
 ```Smalltalk
 Gofer new
-	url: 'http://smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
+	url: 'http://www.smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
 (Smalltalk at: #ConfigurationOfSciSmalltalk) loadBleedingEdge.
