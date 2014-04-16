@@ -7,14 +7,14 @@ Build statuses:
 
 ##How to install SciSmalltalk in Pharo 2.0/3.0
 
-If you want to install the last stable version (0.8):
+If you want to install the last stable version (0.9):
 
 ```Smalltalk
 Gofer new
 	url: 'http://www.smalltalkhub.com/mc/SergeStinckwich/SciSmalltalk/main';
 	package: 'ConfigurationOfSciSmalltalk';
 	load.
-((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.8') load.
+((Smalltalk at: #ConfigurationOfSciSmalltalk) project version: '0.9') load.
 ```
 
 If you want to install the development version :
