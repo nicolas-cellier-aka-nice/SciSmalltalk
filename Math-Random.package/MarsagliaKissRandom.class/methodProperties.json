@@ -1,0 +1,11 @@
+{
+	"class" : {
+		"default" : "nice 4/21/2014 16:36",
+		"new" : "nice 4/21/2014 16:41" },
+	"instance" : {
+		"initialize" : "nice 4/21/2014 16:27",
+		"next" : "nice 4/21/2014 16:34",
+		"peek" : "nice 4/21/2014 16:31",
+		"postCopy" : "nice 4/21/2014 16:47",
+		"seed" : "nice 4/21/2014 16:23",
+		"seed:" : "nice 4/21/2014 16:34" } }

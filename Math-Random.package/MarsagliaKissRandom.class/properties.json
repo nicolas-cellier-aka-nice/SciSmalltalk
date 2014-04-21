@@ -1,0 +1,15 @@
+{
+	"category" : "Math-Random",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "nice 4/21/2014 16:32",
+	"instvars" : [
+		"kernelRand1",
+		"kernelRand2" ],
+	"name" : "MarsagliaKissRandom",
+	"pools" : [
+		 ],
+	"super" : "RandomGenerator",
+	"type" : "normal" }

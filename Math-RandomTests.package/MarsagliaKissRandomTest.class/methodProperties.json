@@ -1,0 +1,7 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"testNextBetweenZeroAndOne" : "nice 4/21/2014 16:53",
+		"testPeekAlwaysReplyTheSameValue" : "nice 4/21/2014 16:54",
+		"testPeekAnswersSameAsNext" : "nice 4/21/2014 16:55" } }
